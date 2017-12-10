@@ -1,0 +1,7 @@
+[package]
+authors = ["statiolake <statiolake@gmail.com>"]
+name = "csv2md"
+version = "0.1.0"
+
+[dependencies]
+unicode-width = "0.1.4"
